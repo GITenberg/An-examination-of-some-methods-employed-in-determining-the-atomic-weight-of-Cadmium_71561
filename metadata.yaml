@@ -1,0 +1,26 @@
+_repo: An-examination-of-some-methods-employed-in-determining-the-atomic-weight-of-Cadmium_71561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bucher, John E.
+    gutenberg_agent_id: '56282'
+    url: http://www.gutenberg.org/2009/agents/56282
+description: ''
+gutenberg_issued: '2023-09-04'
+identifiers:
+  gutenberg: '71561'
+language: en
+pgterms:marc905: 20210508165711bucher
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBaltimore, MD :$bJohn E. Bucher, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An examination of some methods employed in determining the atomic weight of
+  Cadmium
+url: http://www.gutenberg.org/ebooks/71561
