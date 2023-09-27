@@ -1,11 +1,16 @@
 _repo: An-examination-of-some-methods-employed-in-determining-the-atomic-weight-of-Cadmium_71561
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71561-h/images/cover.jpg
 creator:
   author:
     agent_name: Bucher, John E.
     gutenberg_agent_id: '56282'
     url: http://www.gutenberg.org/2009/agents/56282
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71561#An-examination-of-some-methods-employed-in-determining-the-atomic-weight-of-Cadmium
 gutenberg_issued: '2023-09-04'
 identifiers:
   gutenberg: '71561'
